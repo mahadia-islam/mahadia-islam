@@ -8,9 +8,7 @@ I'm Mahadia, a Full Stack Web Developer from Bangladesh . I Spend most of time c
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("mahadia islam")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+:e-mail: &emsp;How to reach me: sbmaham2@gmail.com.<br/>
 
 #### <h3 style="font-family:'Poppins',sans-serif">Programming Language & Tool I Use :</h3>
 
