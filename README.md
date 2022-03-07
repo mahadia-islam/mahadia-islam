@@ -70,4 +70,4 @@ I'm Mahadia, a Full Stack Web Developer from Bangladesh . I Spend most of time c
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=mahadia-islam&count_private=true&theme=tokyonight&hide=contribs,prs)
