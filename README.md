@@ -64,16 +64,6 @@ I'm Mahadia, a Full Stack Web Developer from Bangladesh . I Spend most of time c
   </tbody>
 </table>
 
-### 📺 &emsp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [React 18 new features - What&#39;s new in React](https://www.youtube.com/watch?v=K8pzpxfES4U)
-- [Debounce Function in JavaScript - JavaScript Job Interview question](https://www.youtube.com/watch?v=dD9O8DnIBj4)
-- [#46 React Router v6 Private Route Tutorial](https://www.youtube.com/watch?v=99RWZsEITx4)
-- [#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial](https://www.youtube.com/watch?v=_WuDDnZMRiE)
-- [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)
-<!-- YOUTUBE:END -->
-
 #### Business
 
 :email: &emsp;sayhitorainmaker@gmail.com
