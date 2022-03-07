@@ -68,10 +68,6 @@ I'm Mahadia, a Full Stack Web Developer from Bangladesh . I Spend most of time c
 
 :email: &emsp;sayhitorainmaker@gmail.com
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
-
 <details>
 <summary>
   You wanna know more about me?
