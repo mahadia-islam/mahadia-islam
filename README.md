@@ -1,6 +1,6 @@
 ## Hey Welcome To My World <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Mahadia, a Full Stack Web Developer from Bangladesh . I Spend most of time coding and exploring unkwon topic of programming.
+I'm Mahadia, a Full Stack Web Developer . I Spend most of time coding and exploring unkwon topic of programming.
 
 :coffee: &emsp;Contact with me!
 
