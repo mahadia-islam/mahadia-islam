@@ -21,3 +21,9 @@ I'm Mahadia, a Full Stack Web Developer . I Spend most of time coding and explor
 #### Github Stats
 
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=mahadia-islam&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+#### Most Used Technologies
+
+<a href="https://github.com/tusharhow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&theme=light&hide_langs_below=1" />
+</a>
